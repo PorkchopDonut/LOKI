@@ -1,0 +1,54 @@
+C:\Users\USAF_Admin\documents\visual studio 2015\Projects\LOKI\LOKI\bin\Debug\LOKI.exe.config
+C:\Users\USAF_Admin\documents\visual studio 2015\Projects\LOKI\LOKI\bin\Debug\LOKI.exe.manifest
+C:\Users\USAF_Admin\documents\visual studio 2015\Projects\LOKI\LOKI\bin\Debug\LOKI.application
+C:\Users\USAF_Admin\documents\visual studio 2015\Projects\LOKI\LOKI\bin\Debug\LOKI.exe
+C:\Users\USAF_Admin\documents\visual studio 2015\Projects\LOKI\LOKI\bin\Debug\LOKI.pdb
+C:\Users\USAF_Admin\documents\visual studio 2015\Projects\LOKI\LOKI\obj\Debug\LOKI.csprojResolveAssemblyReference.cache
+C:\Users\USAF_Admin\documents\visual studio 2015\Projects\LOKI\LOKI\obj\Debug\LOKI.csproj.ResolveComReference.cache
+C:\Users\USAF_Admin\documents\visual studio 2015\Projects\LOKI\LOKI\obj\Debug\LOKI.Forms.Admin.resources
+C:\Users\USAF_Admin\documents\visual studio 2015\Projects\LOKI\LOKI\obj\Debug\LOKI.Forms.Incompletes.resources
+C:\Users\USAF_Admin\documents\visual studio 2015\Projects\LOKI\LOKI\obj\Debug\LOKI.Main.resources
+C:\Users\USAF_Admin\documents\visual studio 2015\Projects\LOKI\LOKI\obj\Debug\LOKI.Forms.ReviewSNIP.resources
+C:\Users\USAF_Admin\documents\visual studio 2015\Projects\LOKI\LOKI\obj\Debug\LOKI.Properties.Resources.resources
+C:\Users\USAF_Admin\documents\visual studio 2015\Projects\LOKI\LOKI\obj\Debug\LOKI.AddSNIP.resources
+C:\Users\USAF_Admin\documents\visual studio 2015\Projects\LOKI\LOKI\obj\Debug\LOKI.csproj.GenerateResource.Cache
+C:\Users\USAF_Admin\documents\visual studio 2015\Projects\LOKI\LOKI\obj\Debug\LOKI.exe.manifest
+C:\Users\USAF_Admin\documents\visual studio 2015\Projects\LOKI\LOKI\obj\Debug\LOKI.application
+C:\Users\USAF_Admin\documents\visual studio 2015\Projects\LOKI\LOKI\obj\Debug\LOKI.exe
+C:\Users\USAF_Admin\documents\visual studio 2015\Projects\LOKI\LOKI\obj\Debug\LOKI.pdb
+C:\Users\Porkc\Source\Repos\old_loki\LOKI\LOKI\bin\Debug\LOKI.exe.config
+C:\Users\Porkc\Source\Repos\old_loki\LOKI\LOKI\bin\Debug\LOKI.exe.manifest
+C:\Users\Porkc\Source\Repos\old_loki\LOKI\LOKI\bin\Debug\LOKI.application
+C:\Users\Porkc\Source\Repos\old_loki\LOKI\LOKI\bin\Debug\LOKI.exe
+C:\Users\Porkc\Source\Repos\old_loki\LOKI\LOKI\bin\Debug\LOKI.pdb
+C:\Users\Porkc\Source\Repos\old_loki\LOKI\LOKI\obj\Debug\LOKI.csprojResolveAssemblyReference.cache
+C:\Users\Porkc\Source\Repos\old_loki\LOKI\LOKI\obj\Debug\LOKI.csproj.ResolveComReference.cache
+C:\Users\Porkc\Source\Repos\old_loki\LOKI\LOKI\obj\Debug\LOKI.Forms.Admin.resources
+C:\Users\Porkc\Source\Repos\old_loki\LOKI\LOKI\obj\Debug\LOKI.Forms.Incompletes.resources
+C:\Users\Porkc\Source\Repos\old_loki\LOKI\LOKI\obj\Debug\LOKI.Main.resources
+C:\Users\Porkc\Source\Repos\old_loki\LOKI\LOKI\obj\Debug\LOKI.Forms.ReviewSNIP.resources
+C:\Users\Porkc\Source\Repos\old_loki\LOKI\LOKI\obj\Debug\LOKI.Properties.Resources.resources
+C:\Users\Porkc\Source\Repos\old_loki\LOKI\LOKI\obj\Debug\LOKI.AddSNIP.resources
+C:\Users\Porkc\Source\Repos\old_loki\LOKI\LOKI\obj\Debug\LOKI.csproj.GenerateResource.Cache
+C:\Users\Porkc\Source\Repos\old_loki\LOKI\LOKI\obj\Debug\LOKI.exe.manifest
+C:\Users\Porkc\Source\Repos\old_loki\LOKI\LOKI\obj\Debug\LOKI.application
+C:\Users\Porkc\Source\Repos\old_loki\LOKI\LOKI\obj\Debug\LOKI.exe
+C:\Users\Porkc\Source\Repos\old_loki\LOKI\LOKI\obj\Debug\LOKI.pdb
+C:\Users\Porkc\Source\Repos\LOKI\LOKI\bin\Debug\LOKI.exe.config
+C:\Users\Porkc\Source\Repos\LOKI\LOKI\bin\Debug\LOKI.exe.manifest
+C:\Users\Porkc\Source\Repos\LOKI\LOKI\bin\Debug\LOKI.application
+C:\Users\Porkc\Source\Repos\LOKI\LOKI\bin\Debug\LOKI.exe
+C:\Users\Porkc\Source\Repos\LOKI\LOKI\bin\Debug\LOKI.pdb
+C:\Users\Porkc\Source\Repos\LOKI\LOKI\obj\Debug\LOKI.csprojResolveAssemblyReference.cache
+C:\Users\Porkc\Source\Repos\LOKI\LOKI\obj\Debug\LOKI.csproj.ResolveComReference.cache
+C:\Users\Porkc\Source\Repos\LOKI\LOKI\obj\Debug\LOKI.Forms.Admin.resources
+C:\Users\Porkc\Source\Repos\LOKI\LOKI\obj\Debug\LOKI.Forms.Incompletes.resources
+C:\Users\Porkc\Source\Repos\LOKI\LOKI\obj\Debug\LOKI.Main.resources
+C:\Users\Porkc\Source\Repos\LOKI\LOKI\obj\Debug\LOKI.Forms.ReviewSNIP.resources
+C:\Users\Porkc\Source\Repos\LOKI\LOKI\obj\Debug\LOKI.Properties.Resources.resources
+C:\Users\Porkc\Source\Repos\LOKI\LOKI\obj\Debug\LOKI.AddSNIP.resources
+C:\Users\Porkc\Source\Repos\LOKI\LOKI\obj\Debug\LOKI.csproj.GenerateResource.Cache
+C:\Users\Porkc\Source\Repos\LOKI\LOKI\obj\Debug\LOKI.exe.manifest
+C:\Users\Porkc\Source\Repos\LOKI\LOKI\obj\Debug\LOKI.application
+C:\Users\Porkc\Source\Repos\LOKI\LOKI\obj\Debug\LOKI.exe
+C:\Users\Porkc\Source\Repos\LOKI\LOKI\obj\Debug\LOKI.pdb
